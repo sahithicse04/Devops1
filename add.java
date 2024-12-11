@@ -1,4 +1,4 @@
-public class Addtwonum{
+public class add{
 public static void main(String[] args){
  if(args.length<2){
  System.out.println("Please provide two numbers");
